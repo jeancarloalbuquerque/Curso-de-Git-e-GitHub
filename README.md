@@ -1,6 +1,10 @@
 
 ![j](https://user-images.githubusercontent.com/22244637/167503223-7b3eb6bf-dafd-45df-9874-80b6d55c5380.PNG)
+
 [Acesse meu Site](https://jeancarloalbuquerque.wordpress.com)
+
+[Manual de Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
 # Curso de Git e GitHub!
 
 ## Primeiro Repositório
